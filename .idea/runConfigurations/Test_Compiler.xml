@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Test-Compiler" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="compiler.Test" />
+    <module name="FOOL" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="compiler.lib.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
