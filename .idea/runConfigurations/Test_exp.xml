@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Test" type="Application" factoryName="Application" nameIsGenerated="true">
+  <configuration default="false" name="Test-exp" type="Application" factoryName="Application">
     <option name="MAIN_CLASS_NAME" value="exp.Test" />
     <module name="FOOL" />
     <extension name="coverage">
