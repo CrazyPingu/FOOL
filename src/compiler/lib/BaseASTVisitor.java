@@ -12,24 +12,22 @@ public class BaseASTVisitor<S> {
     }
 
     public S visitNode(ProgNode n) {
-        return null;
+        throw new UnimplException();
     }
 
     public S visitNode(PlusNode n) {
-        return null;
+        throw new UnimplException();
     }
 
     public S visitNode(TimesNode n) {
-        return null;
+        throw new UnimplException();
     }
 
     public S visitNode(IntNode n) {
-        return null;
+        throw new UnimplException();
     }
 }
 
-
-//throw new UnimplException();
 
 //	protected boolean print=false;
 //	protected BaseASTVisitor() {}
